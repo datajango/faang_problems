@@ -36,9 +36,7 @@ Above all else, no matter what the degree is in, rigor is beaten into you at gra
 
 But...the Autodidact says...there's so much to learn, who has the time to learn the details, just skim the surface and move on.
 
-I think this is where the concept of team-work comes into play. To get anything done today, you need a multi-disciplined team of experts. You don't build a team from people that skim, you build a team of rigorous individuals whose combined knowledge and talents can solve problems competitively. Not, and sorry to say, a clown car filled with light weights that haven't cracked a text book since college or worse the self-taught dot.com millionare with an ego larger than the national dept. Making a bazillion dollars by slapping together a fad gadget to entertain the vapid masses is noteable only by the fact that half the fortune is usually lost in a nasty public divorce settlement. Which still leaves a bazillion/2 which is more than I will ever make by a huge factor. (this is, by the way, the Academic being superior, arrogant and generally jealous of the less educated but more financially successful amoung us.)
-
-To which the Autodidact says..see...just stop all this rigor stuff and make a bazillion/2 dollars. Sounds good to me.
+I think this is where the concept of team-work comes into play. To get anything done today, you need a multi-disciplined team of experts. You build a team from rigorous individuals whose combined knowledge and talents can solve problems competitively. 
 
 ## And Yet the FAANG wants Rigor to Reduce the Heat
 
@@ -52,7 +50,7 @@ So the point of the FANNG interview is then to make smart hiring decisions for p
 
 ## My FAANG Interview Strategy
 
-My basic concept is to study key algorithms along with a body of heuristics know to be useful in solving interview coding challanges. I taught graduate level Comp Sci for one semester at NYU Poly out of the Brooklyn MetroTech campus, so I mostly know everything I need to knowo already. Says the Autodidact, the Academic says, just hit the books smart guy.
+My basic concept is to study key algorithms along with a body of heuristics known to be useful in solving interview coding challanges. I taught graduate level Comp Sci for one semester at NYU Poly out of the Brooklyn MetroTech campus, so I mostly know everything I need to knowo already. Says the Autodidact, the Academic says, just hit the books smart guy.
 
 But as was stated above: Rigor demands the deep dive.
 
