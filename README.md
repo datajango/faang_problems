@@ -52,7 +52,7 @@ So the point of the FANNG interview is then to make smart hiring decisions for p
 
 ## My FAANG Interview Strategy
 
-My basic concept is to study key algorithms along with a body of heuristics know to be useful in solving interview coding challanges. I taught graduate level Comp Sci for one semester at NYU Poly out of the Brooklyn MetroTech campus, so I mostly know everything I need to knwo already.
+My basic concept is to study key algorithms along with a body of heuristics know to be useful in solving interview coding challanges. I taught graduate level Comp Sci for one semester at NYU Poly out of the Brooklyn MetroTech campus, so I mostly know everything I need to knowo already. Says the Autodidact, the Academic says, just hit the books smart guy.
 
 But as was stated above: Rigor demands the deep dive.
 
