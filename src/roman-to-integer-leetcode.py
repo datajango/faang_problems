@@ -1,3 +1,7 @@
+# Anthony Leotta
+# 2022-07-06
+# This is what I submitted to leetcode.
+
 class Solution:
     def romanToInt(self, s: str) -> int:
         decoder = {
